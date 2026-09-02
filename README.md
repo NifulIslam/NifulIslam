@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Hi, I'm Niful Islam
 
-<!--
-**NifulIslam/NifulIslam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Former Software Engineer · PhD Student in Computer Science
 
-Here are some ideas to get you started:
+I work at the intersection of LLMs, LLM agents, and software engineering. Currently a Graduate Research Assistant at [Oakland University](https://www.oakland.edu). Previously I worked as a Junior Software Engineer at [Nascenia](https://nascenia.com/).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NifulIslam&theme=tokyonight&hide_border=true)
+
+</div>
+---
+
+## 🤝 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nifulislam/)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4.svg?logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=Wd78nMUAAAAJ&hl=en&oi=ao)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF.svg?logo=kaggle&logoColor=white)](https://www.kaggle.com/naifislam)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000.svg?logo=githubpages&logoColor=white)](https://nifulislam.github.io)
+* **Email:** nislamjadid@gmail.com
+* **Profile Views:** ![](https://komarev.com/ghpvc/?username=NifulIslam&color=blue)
