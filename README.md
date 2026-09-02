@@ -2,7 +2,7 @@
 
 ### Former Software Engineer · PhD Student in Computer Science
 
-I work at the intersection of LLMs, LLM agents, and software engineering. Currently a Graduate Research Assistant at [Oakland University](https://www.oakland.edu). Previously I worked as a Junior Software Engineer at [Nascenia](https://nascenia.com/).
+This is Niful Islam. I’m currently working as a Graduate Research Assistant at [Oakland University](https://www.oakland.edu/), where I work at the intersection of LLMs, LLM agents, and software engineering. Previously, I worked as a Junior Software Engineer at [Nascenia](https://nascenia.com/). I enjoy solving coding problems and have always been passionate about competitive programming. During my undergraduate studies, I participated in multiple programming competitions, including the ICPC Regional 2021. Currently, I’m particularly interested in developing large-scale distributed systems that can reliably serve diverse user bases.
 
 ---
 
